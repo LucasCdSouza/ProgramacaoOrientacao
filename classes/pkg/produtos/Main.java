@@ -1,4 +1,4 @@
-package pkg;
+package pkg.produtos;
 
 import java.util.Scanner;
 

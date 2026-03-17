@@ -1,6 +1,6 @@
-package pkg;
+package pkg.filme;
 
-public class filme{
+public class Filme{
     public String titulo;
     public String diretor;
     public int anolancamento;

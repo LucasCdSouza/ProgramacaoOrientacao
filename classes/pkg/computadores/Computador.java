@@ -1,4 +1,4 @@
-package pkg;
+package pkg.computadores;
 //marca, modelo, tipo (notebook, netbook, tablet, etc) e preço.
 public class Computador{
     public String marca = "Samsung";

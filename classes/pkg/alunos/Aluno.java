@@ -1,4 +1,4 @@
-package pkg;
+package pkg.alunos;
 
 public class Aluno {
     public String nome;

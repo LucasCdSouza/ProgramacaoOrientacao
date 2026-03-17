@@ -1,4 +1,4 @@
-package pkg;
+package pkg.pessoas;
 
 import java.util.Scanner;
 public class Main{

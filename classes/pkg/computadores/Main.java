@@ -1,4 +1,4 @@
-package pkg;
+package pkg.computadores;
 
 import java.util.Scanner;
 public class Main{

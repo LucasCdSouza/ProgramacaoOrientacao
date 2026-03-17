@@ -1,4 +1,4 @@
-package pkg;
+package pkg.pessoas;
 
     public class Pessoa{
         public String nome = "Lucas Camargo de Souza";

@@ -1,4 +1,4 @@
-package pkg;
+package pkg.alunos;
 
 import java.util.Scanner;
 
