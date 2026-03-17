@@ -1,4 +1,4 @@
-package pkg;
+package pkg.carro;
 
 import java.util.Scanner;
 
